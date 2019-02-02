@@ -1,3 +1,3 @@
 # Info_gather
 
-Replaces PHP and adds all input data to a .txt
+php code to collect all data entered into a webpage
